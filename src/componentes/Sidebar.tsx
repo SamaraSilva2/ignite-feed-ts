@@ -11,7 +11,7 @@ export function Sidebar() {
             />
 
             <div className={styles.profile}>
-                <Avatar src="https://api.unrealperson.com/image?name=image.40075.3654189.jpg&type=tpdne" />
+                <Avatar src="https://images.unsplash.com/photo-1679807931175-b74ae4c3d910?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzJ8fHlvdW5nJTIwd29tYW4lMjBmYWNlfGVufDB8fDJ8fA%3D%3D&auto=format&fit=crop&w=500&q=60" />
 
                 <strong>Liana</strong>
                 <span>Web Developer</span>

@@ -10,7 +10,7 @@ const posts: PostType[] = [
   {
     id: 1,
     author: {
-      avatarUrl: 'https://api.unrealperson.com/image?name=image.40075.3654189.jpg&type=tpdne',
+      avatarUrl: 'https://images.unsplash.com/photo-1679807931175-b74ae4c3d910?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzJ8fHlvdW5nJTIwd29tYW4lMjBmYWNlfGVufDB8fDJ8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
       name: 'Liana Felício',
       role: 'Estudante de Front-End'
     },
@@ -24,7 +24,7 @@ const posts: PostType[] = [
   {
     id: 2,
     author: {
-      avatarUrl: 'https://api.unrealperson.com/image?name=image.49030.3654189.jpg&type=tpdne',
+      avatarUrl: 'https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fG1hbiUyMHBvcnRyYWl0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
       name: 'Bernardo Maia',
       role: 'Desenvolvedor Back-End @Foguete'
     },
