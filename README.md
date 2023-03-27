@@ -2,9 +2,8 @@
 
 Projeto de uma página que recebe inputs de comentários. Outras interações estão presentes, como a ação de "aplaudir" e a de deletar comentários.
 
-Tecnologias presentes:
+-Tecnologias presentes:
 
-#React;
-#Typescript;
-#HTML;
-#CSS.
+React
+TypeScript
+CSS
