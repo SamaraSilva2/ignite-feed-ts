@@ -4,6 +4,6 @@ Projeto de uma página que recebe inputs de comentários. Outras interações es
 
 -Tecnologias presentes:
 
-React
-TypeScript
-CSS
+React  <br/>
+TypeScript  <br/>
+CSS  <br/>
