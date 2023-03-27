@@ -10,7 +10,7 @@ const posts: PostType[] = [
   {
     id: 1,
     author: {
-      avatarUrl: 'https://images.unsplash.com/photo-1679807931175-b74ae4c3d910?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzJ8fHlvdW5nJTIwd29tYW4lMjBmYWNlfGVufDB8fDJ8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
+      avatarUrl: 'https://images.unsplash.com/photo-1540671221389-aa5fe5f52417?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzAzfHx5b3VuZyUyMHdvbWFuJTIwZmFjZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60',
       name: 'Liana Felício',
       role: 'Estudante de Front-End'
     },
@@ -30,7 +30,7 @@ const posts: PostType[] = [
     },
     content: [
       { type: 'paragraph', content: 'Tudo beleza? ' },
-      { type: 'paragraph', content: 'Concluí a parte de back-end para o próximo tutorial. Vem muita coisa boa aí! 🪄' },
+      { type: 'paragraph', content: 'Concluí a parte de back-end para o próximo tutorial. Vem muita coisa boa aí! ⚡' },
       { type: 'link', content: 'foguete/bernardo-projetos' },
     ],
     publishedAt: new Date('2022-05-10 20:00:00'),
